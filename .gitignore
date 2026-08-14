@@ -1,20 +1,6 @@
-# Byte-compiled / artifacts
-__pycache__/
-*.py[cod]
-
-# Environments
 .env
-.env.*
-
-# Data
+__pycache__/
+*.pyc
+*.pyo
 data/
-
-# Virtualenv
-venv/
-
-# Docker
-*.log
-
-# Editor
-.vscode/
-.idea/
+.DS_Store
